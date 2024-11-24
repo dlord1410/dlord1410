@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-💻 My name is DJ Lord. I am an aspiring entrepreneur with a passion for computer science and business. I'm a full-time college student who lives in the United States. I am actively pursuing my Associate of Arts and Associate of Science degree with the intent to transfer to receive a Bachelors degree in both Computer Science and Business.
+💻 My name is DJ. I am an aspiring entrepreneur with a passion for computer science and business. I'm a full-time college student who lives in the United States. I am actively pursuing my Associate of Arts and Associate of Science degree with the intent to transfer to receive a Bachelors degree in both Computer Science and Business.
 
 🧠 I have always been experimenting with computers and programming since an early age. However, it was not until recently that I was given a formal introduction to coding. I was first introduced to HTML and CSS through a dual enrollment course, and later taught JavaScript from my local high school. In the last few months, I have also started to learn Java.
 
