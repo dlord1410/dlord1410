@@ -34,3 +34,6 @@
 
 ## Let's Connect! 📡
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlordjr/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dlord1410) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dlord1410/)
+
+<br></br>
+![dlord1410's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlord1410&show_icons=true&theme=transparent&hide=stars&hide_rank=true&include_all_commits=true)
